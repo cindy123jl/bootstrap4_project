@@ -1,4 +1,3 @@
 # Bootstrap 
  
- Here I show how I can utilize the front-end framework bootstrap to create a page for 
- a 
+ Here I show how I can utilize the front-end framework bootstrap to create a webpage for a movie theater. Using html, javascript and css 
